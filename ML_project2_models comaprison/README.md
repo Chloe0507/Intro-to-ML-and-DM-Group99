@@ -11,3 +11,5 @@ python -m concrete_predictions.main
 4. MLP KL(KL divergence)
 5. Randon forest 
 ```
+
+run main.py
